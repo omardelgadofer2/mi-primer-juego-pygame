@@ -1,4 +1,5 @@
 🎮 Mi Primer Juego en Python
+se ejecuta desde el main.py
 ¡Hola! Este es mi primer videojuego, un proyecto desarrollado con el objetivo principal de aprender las bases del desarrollo de juegos, la lógica de programación y el flujo de trabajo en este mundo.
 🛠️ Requisitos y Dependencias
 Para poder ejecutar el juego y cargar correctamente todos los assets (incluyendo los mapas), necesitas tener instalado Python y las siguientes librerías:
