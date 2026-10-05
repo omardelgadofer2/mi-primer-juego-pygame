@@ -1,0 +1,87 @@
+{
+    "activeFile": "nivel1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "GandalfHardcore Water Tiles sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Pine Trees.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tree1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "arboles_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cloud5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cloud6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nivel1.tmx": {
+            "scale": 1,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 522,
+                "y": 40
+            }
+        },
+        "otros_pisos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pasto.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "sun.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "textura_piso1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "texturas_suelo1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/omard/Desktop/Python/intermedio/juegos/assets/Mapa",
+    "map.lastUsedExportFilter": "Archivos de mapas de Tiled (*.tmx *.xml)",
+    "openFiles": [
+        "texturas_suelo1.tsx",
+        "pasto.tsx",
+        "Tree1.tsx",
+        "textura_piso1.tsx",
+        "GandalfHardcore Water Tiles sheet.tsx",
+        "Pine Trees.tsx",
+        "sun.tsx",
+        "nivel1.tmx"
+    ],
+    "project": "mi_mapa.tiled-project",
+    "recentFiles": [
+        "texturas_suelo1.tsx",
+        "pasto.tsx",
+        "Tree1.tsx",
+        "textura_piso1.tsx",
+        "GandalfHardcore Water Tiles sheet.tsx",
+        "Pine Trees.tsx",
+        "sun.tsx",
+        "nivel1.tmx",
+        "otros_pisos.tsx",
+        "cloud6.tsx",
+        "cloud5.tsx",
+        "arboles_1.tsx"
+    ]
+}
